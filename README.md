@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![Flask](https://img.shields.io/badge/Flask-Backend-black?style=for-the-badge&logo=flask)
 ![Status](https://img.shields.io/badge/Status-Prototype-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-AGPL--3.0-red?style=for-the-badge)
+![License](https://img.shields.io/badge/License-AGPL--3.0-green?style=for-the-badge)
 
 **Sentinel** is a software-centric emergency alert platform inspired by standalone GSM-based SOS systems. It simulates a hardware-triggered safety device and processes alerts through a structured backend system with real-time monitoring and built-in GPS tracking capabilities.
 
